@@ -55,7 +55,7 @@ class _MainAppState extends State<MainApp> {
       home: Scaffold(
         appBar: AppBar(
           title: const Text("Shopping Cart"),
-          backgroundColor: Color.fromARGB(255, 192, 250, 2),
+          backgroundColor: Color.fromARGB(255, 2, 171, 250),
         ),
         body: Column(children: [
           Expanded(
